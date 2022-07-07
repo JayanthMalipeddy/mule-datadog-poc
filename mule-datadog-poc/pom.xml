@@ -57,15 +57,7 @@
 			<classifier>mule-plugin</classifier>
 		</dependency>
 			<dependency>
-	    <groupId>org.apache.maven.plugin-tools</groupId>
-	    <artifactId>maven-plugin-tools-api</artifactId>
-	    <version>3.5.4</version>
-	</dependency>
-	<dependency>
-    <groupId>org.apache.maven.plugin-tools</groupId>
-    <artifactId>maven-plugin-tools</artifactId>
-    <version>3.5.4</version>
-    <type>pom</type>
+
 </dependency>
 	
 	</dependencies>
